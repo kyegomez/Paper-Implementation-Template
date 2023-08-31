@@ -21,6 +21,7 @@ Paper Link
 
 
 # License
+MIT
 
 # Citations
 
